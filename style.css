@@ -1,0 +1,11 @@
+@import url(./css-reset.css);
+@font-face {
+  font-family: Figtree;
+  src: url(./assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+body {
+  font-family: Figtree, sans-serif;
+  background-color: hsla(47, 89%, 63%, 1);
+  color: hsla(0, 0%, 7%, 1);
+}
